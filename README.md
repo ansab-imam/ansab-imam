@@ -1,14 +1,10 @@
 ## Hi, I'm Ansab 👋
 
-I work in sales and business development, and I run my own agency, [Socialist Fox](https://socialistfox.com/).
+I work in sales and business development, and I run [Socialist Fox](https://socialistfox.com/).
 
-I'm not a developer. I started freelancing in 2020 with no technical background, and went from graphic design to SEO to business development. Working closely with tech teams taught me how software gets built, but the code in these repos was written with Claude (AI).
+When I see a problem, whether it's mine, my company's or a client's, I try to find a solution for it, and automate it where I can. If it's useful beyond that one job, I put it here so you can use it too.
 
-### Why these repos exist
-
-When I see a problem that keeps eating time, whether it's mine, my company's or a client's, I try to build something that fixes it or automates it away. Some of those tools are useful beyond the job they were made for, so I share them here.
-
-They're free and MIT licensed, so use them, change them, or pass them on.
+Everything here is free and MIT licensed, so use it, change it, or pass it on.
 
 A few to start with:
 
