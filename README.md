@@ -1,26 +1,23 @@
 ## Hi, I'm Ansab 👋
 
-I build practical tools for sales teams: CRMs, lead tracking dashboards and the small utilities that keep pipeline data clean. Most of my work sits on **Next.js, React, TypeScript, Supabase/Postgres** and **Vercel**.
+I work in sales and business development, and I run my own agency, [Socialist Fox](https://socialistfox.com/).
 
-Work published here is under **Socialist Fox**.
+I'm not a developer. I started freelancing in 2020 with no technical background, and went from graphic design to SEO to business development. Working closely with tech teams taught me how software gets built, but the code in these repos was written with Claude (AI).
 
-### Apps
+### Why these repos exist
 
-| Project | What it does | Stack |
-|---|---|---|
-| [Cold Call CRM](https://github.com/ansab-imam/cold-call-crm) | Outbound calling CRM: lead import, caller queues, call log, opportunities board and reports | Next.js · Postgres · Vercel |
-| [Upwork Lead Tracker](https://github.com/ansab-imam/upwork-lead-tracker) | Proposal funnel from Submitted to Hired, reporting, lead scoring and team tools | React · Vite · Supabase |
-| [Sales Pipeline Forecast](https://github.com/ansab-imam/sales-pipeline-forecast) | Weighted revenue forecast from open deals, by month, stage and owner | Next.js · TypeScript |
+In sales you run into the same small problems again and again: messy lead lists, phone numbers in every format, commission sheets nobody trusts. I build simple tools to fix the ones I've dealt with myself, and share them here in case they're useful to someone else.
 
-### Tools
+They're free and MIT licensed, so use them, change them, or pass them on.
 
-| Project | What it does | Stack |
-|---|---|---|
-| [lead-csv-cleaner](https://github.com/ansab-imam/lead-csv-cleaner) | Cleans and de-duplicates lead CSVs before CRM import | Node.js CLI |
-| [phone-number-formatter](https://github.com/ansab-imam/phone-number-formatter) | Normalises phone numbers to E.164 for seven countries | TypeScript |
-| [supabase-table-backup](https://github.com/ansab-imam/supabase-table-backup) | Backs up and restores Supabase tables over the REST API | Node.js CLI |
-| [sales-commission-calculator](https://github.com/ansab-imam/sales-commission-calculator) | Flat, tiered and quota-accelerated commission plans | HTML · CSS · JS |
-| [invoice-generator](https://github.com/ansab-imam/invoice-generator) | Professional invoices in the browser, saved as PDF | HTML · CSS · JS |
-| [loan-emi-calculator](https://github.com/ansab-imam/loan-emi-calculator) | Monthly payments, amortisation schedule and extra-payment savings | HTML · CSS · JS |
+A few to start with:
 
-Everything here is MIT licensed — clone it, use it, adapt it.
+- [Cold Call CRM](https://github.com/ansab-imam/cold-call-crm): a lightweight CRM for outbound calling teams
+- [Lead CSV Cleaner](https://github.com/ansab-imam/lead-csv-cleaner): tidies up lead lists before they go into a CRM
+- [Sales Commission Calculator](https://github.com/ansab-imam/sales-commission-calculator): works out tiered and quota-based commission
+
+If something's broken, or there's a tool you wish existed, open an issue.
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/ansabimam/) · [X](https://x.com/ansabimam) · [Instagram](https://www.instagram.com/ansabimam) · [Book a call](https://calendly.com/socialistfox)
