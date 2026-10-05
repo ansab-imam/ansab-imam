@@ -6,7 +6,7 @@ I'm not a developer. I started freelancing in 2020 with no technical background,
 
 ### Why these repos exist
 
-In sales you run into the same small problems again and again: messy lead lists, phone numbers in every format, commission sheets nobody trusts. I build simple tools to fix the ones I've dealt with myself, and share them here in case they're useful to someone else.
+When I see a problem that keeps eating time, whether it's mine, my company's or a client's, I try to build something that fixes it or automates it away. Some of those tools are useful beyond the job they were made for, so I share them here.
 
 They're free and MIT licensed, so use them, change them, or pass them on.
 
@@ -14,10 +14,10 @@ A few to start with:
 
 - [Cold Call CRM](https://github.com/ansab-imam/cold-call-crm): a lightweight CRM for outbound calling teams
 - [Lead CSV Cleaner](https://github.com/ansab-imam/lead-csv-cleaner): tidies up lead lists before they go into a CRM
-- [Sales Commission Calculator](https://github.com/ansab-imam/sales-commission-calculator): works out tiered and quota-based commission
+- [Invoice Generator](https://github.com/ansab-imam/invoice-generator): makes a clean invoice in your browser and saves it as a PDF
 
 If something's broken, or there's a tool you wish existed, open an issue.
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/ansabimam/) · [X](https://x.com/ansabimam) · [Instagram](https://www.instagram.com/ansabimam) · [Book a call](https://calendly.com/socialistfox)
+[LinkedIn](https://www.linkedin.com/in/ansabimam/) · [X](https://x.com/ansabimam) · [Threads](https://www.threads.com/@ansabimam) · [Instagram](https://www.instagram.com/ansabimam) · [Book a call](https://calendly.com/socialistfox)
